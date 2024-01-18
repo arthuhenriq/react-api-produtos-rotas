@@ -1,0 +1,14 @@
+.contato {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.dados {
+    margin-left: 2rem;
+}
+
+.img-contato {
+    width: 16rem;
+    height: 22rem;
+}

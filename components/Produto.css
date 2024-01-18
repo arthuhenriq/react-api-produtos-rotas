@@ -1,0 +1,33 @@
+.produto-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.img-produto {
+    max-width: 100%;
+    border-radius: 1.2rem;
+    margin-bottom: 1rem;
+    margin-left: auto;
+}
+
+
+.preco-box {
+    background-color: chartreuse;
+    text-align: center;
+    border-radius: 0.4rem;
+    width: 6rem;
+    height: 2rem;
+}
+
+.nome {
+    font-weight: bold;
+}
+
+.preco-valor {
+    font-weight: 500;
+}
+
+.div-foto {
+    
+}

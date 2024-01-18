@@ -1,0 +1,11 @@
+.produtos {
+display: grid;
+  grid-template-columns: 14rem 14rem 14rem;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px;
+}
+
+.produto {
+    margin: auto;
+}
